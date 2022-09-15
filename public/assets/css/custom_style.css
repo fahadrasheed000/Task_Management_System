@@ -1,0 +1,12 @@
+.error {
+  color: red
+}
+.search-tag {
+  background: #333333 !important;
+}
+.dataTables_filter ,.dataTables_length,.dataTables_paginate,.dataTables_info{
+  display: none;
+}
+.main{
+  margin:80px;
+}
